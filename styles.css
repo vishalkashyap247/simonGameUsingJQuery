@@ -10,6 +10,12 @@ body {
   color: #FEF2BF;
 }
 
+.heading1
+{
+  padding-top:0px;
+  margin-top: 30px; 
+}
+
 .container {
   display: block;
   width: 50%;
